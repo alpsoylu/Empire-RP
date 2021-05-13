@@ -2,7 +2,7 @@
 guiTypes = {
 	containerWindowType = {
 		name = "nat_ideas_container"
-		position = { x = 537 y = 36 }
+		position = { x = 597 y = 36 }
 		
 		
 		
